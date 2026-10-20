@@ -1,0 +1,2592 @@
+========================================
+calculationRule 使用頻度
+========================================
+
+
+Rule ID: 0
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun04030102  unit: #枚  
+物品名: 藺笠
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 1
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun04030202  unit: #枚  
+物品名: 狭席
+formula: * 4 div 5
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 2
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun04030302  unit: #枚  
+物品名: 葉薦
+formula: * 4 div 5
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 3
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun04030203  unit: #枚  
+物品名: 広席
+formula: * 3 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 4
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun04030204  unit: #枚  
+物品名: 黒山席
+formula: * 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 5
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun04030303  unit: #枚  
+物品名: 折薦
+formula: * 2 div 3
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 6
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun04030304  unit: #枚  
+物品名: 食薦
+formula: * 1 div 7
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 7
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun05010107  unit: #合_set  
+物品名: 明櫃
+formula: * 5 div 4
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 8
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun05010202  unit: #合_set  
+物品名: 柳筥
+formula: * 3
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 9
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun05010302  unit: #合_set  
+物品名: 藺笥
+formula: * 1 div 2
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 10
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun05010401  unit: #枚  
+物品名: 箕
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 11
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun05010108  unit: #合_set  
+物品名: 大明櫃
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 12
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun05010109  unit: #合_set  
+物品名: 小明櫃
+formula: * 1 div 6
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 13
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun05010102  unit: #合_set  
+物品名: 折櫃
+formula: * 1 div 5
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 14
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun05010303  unit: #合_set  
+物品名: 麻笥
+formula: * 1 div 6
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 15
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun05010304  unit: #合_set  
+物品名: 板笥
+formula: * 1 div 25
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 16
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun05010305  unit: #合_set  
+物品名: 円笥
+formula: * 1 div 7
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 17
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010102  unit: #口  
+物品名: 池由加
+formula: * 8
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 18
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010201  unit: #口  
+物品名: 瓺
+formula: * 8
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 19
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010301  unit: #口  
+物品名: 瓼
+formula: * 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 20
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010401  unit: #口  
+物品名: 缶
+formula: * 2 div 3
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 21
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010101  unit: #口  
+物品名: 由加
+formula: * 1
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 22
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011106  unit: #口  
+物品名: 燼瓫
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 23
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010509  unit: #合_set  
+物品名: 脚短杯
+formula: * 1 div 13
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 24
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010509  unit: #口  
+物品名: 脚短杯
+formula: * 1 div 20
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 25
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010601  unit: #口  
+物品名: 筥杯
+formula: * 1 div 34
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 26
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010705  unit: #合_set  
+物品名: 水椀
+formula: * 1 div 13
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 27
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010705  unit: #口  
+物品名: 水椀
+formula: * 1 div 20
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 28
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010901  unit: #口  
+物品名: 多志羅加
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 29
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011002  unit: #口  
+物品名: 大山【瓦+嬰】
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 30
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011102 #noun07013003  unit: #口  
+物品名: 叩瓫, 叩戸
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 31
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011201  unit: #口  
+物品名: 𤭯
+formula: * 1 div 10
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 32
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011103  unit: #口  
+物品名: 水瓫
+formula: * 1 div 3
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 33
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011003  unit: #口  
+物品名: 大【瓦+嬰】
+formula: * 1 div 3
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 34
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011302  unit: #口  
+物品名: 洗盤
+formula: * 1 div 3
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 35
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011004  unit: #口  
+物品名: 中【瓦+嬰】
+formula: * 1 div 4
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 36
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011402 #noun07011417  unit: #口  
+物品名: 平瓶, 比太為瓶
+formula: * 1 div 4
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 37
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011502  unit: #口  
+物品名: 酒壺
+formula: * 1 div 4
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 38
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011601  unit: #口  
+物品名: 等呂須伎
+formula: * 1 div 4
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 39
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011702  unit: #口  
+物品名: 缶蓋
+formula: * 1 div 6
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 40
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011303  unit: #口  
+物品名: 高盤
+formula: * 1 div 7
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 41
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011005  unit: #口  
+物品名: 小【瓦+嬰】
+formula: * 1 div 8
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 42
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011801  unit: #口  
+物品名: 鉢
+formula: * 1 div 8
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 43
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011901  unit: #口  
+物品名: 臼
+formula: * 1 div 8
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 44
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011403  unit: #口  
+物品名: 水瓶
+formula: * 1 div 10
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 45
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07012002  unit: #口  
+物品名: 酒垂
+formula: * 1 div 10
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 46
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011503  unit: #口  
+物品名: 祭壺
+formula: * 1 div 10
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 47
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010504  unit: #口  
+物品名: 短女杯
+formula: * 1 div 20
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 48
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010505  unit: #口  
+物品名: 小杯
+formula: * 1 div 26
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 49
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011304  unit: #口  
+物品名: 片盤
+formula: * 1 div 25
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 50
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010506  unit: #口  
+物品名: 韲杯
+formula: * 1 div 50
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 51
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07012102  unit: #口  
+物品名: 燈盞
+formula: * 1 div 50
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 52
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011703  unit: #口  
+物品名: 土師器火炉蓋
+formula: * 1 div 8
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 53
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07012302 #noun07012201 #noun07012202  unit: #口  
+物品名: 土師器平鍋, 鍋, 贄土師鍋
+formula: * 1 div 50
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 54
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011802 #noun07010522  unit: #口  
+物品名: 玉手土師鉢, 玉手土師杯
+formula: * 1 div 50
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 55
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010521  unit: #口  
+物品名: 玉手土師間杯
+formula: * 1 div 100
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 56
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010802  unit: #口  
+物品名: 贄土師鋺形
+formula: * 1 div 50
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 57
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011311  unit: #口  
+物品名: 贄土師片盤
+formula: * 1 div 50
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 58
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07012402  unit: #口  
+物品名: 贄土師餺餅器
+formula: * 1 div 2
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 59
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07012502  unit: #口  
+物品名: 贄土師竃
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 60
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07012602  unit: #口  
+物品名: 贄土師竃子
+formula: * 1 div 10
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 61
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07012702  unit: #口  
+物品名: 贄土師甑
+formula: * 1 div 10
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 62
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011312  unit: #口  
+物品名: 贄土師手洗盤
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 63
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011107  unit: #口  
+物品名: 贄土師手湯瓫
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 64
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010708  unit: #口  
+物品名: 贄土師水椀
+formula: * 1 div 10
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 65
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011108  unit: #口  
+物品名: 贄土師瓫
+formula: * 1 div 8
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 66
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011313  unit: #口  
+物品名: 贄土師大高盤
+formula: * 1 div 7
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 67
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011314  unit: #合_set  
+物品名: 贄土師粥前下盤
+formula: * 1 div 6
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 68
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011315  unit: #合_set  
+物品名: 贄土師粥盤
+formula: * 1 div 6
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 69
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07012103  unit: #合_set  
+物品名: 贄土師酒盞
+formula: * 1 div 20
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 70
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010523  unit: #合_set  
+物品名: 贄土師汁漬杯
+formula: * 1 div 20
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 71
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010524 #noun07010525  unit: #口  
+物品名: 贄土師中片杯, 贄土師片杯
+formula: * 1 div 75
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 72
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011316  unit: #口  
+物品名: 贄土師吐盤
+formula: * 1 div 3
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 73
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07012104  unit: #合_set  
+物品名: 杯作土師酒盞
+formula: * 1 div 60
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 74
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07011317  unit: #口  
+物品名: 杯作土師小高盤
+formula: * 1 div 48
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 75
+countries: #山城国 #大和国 #河内国 #和泉国 #摂津国  targets: #noun07010526  unit: #口  
+物品名: 杯作土師中片杯
+formula: * 1 div 199
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 76
+countries:   targets: #noun04040202  unit: #疋  
+物品名: 両面錦
+formula: * 11
+実際の使用回数: 11
+数量・単位欠落で未使用: 0
+潜在的使用回数: 11
+
+
+Rule ID: 77
+countries:   targets: #noun04040302 #noun04040303 #noun04040304 #noun04040305 #noun04040306 #noun04040307 #noun04040308 #noun04040309  unit: #疋  
+物品名: 雑羅, 冠羅, 鼠跡羅, 襷羅, 藻羅, 九点羅, 小許春羅, 四点羅
+formula: * 3
+実際の使用回数: 13
+数量・単位欠落で未使用: 0
+潜在的使用回数: 13
+
+
+Rule ID: 78
+countries:   targets: #noun04040402  unit: #疋  
+物品名: 三色綾
+formula: * 10
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 79
+countries:   targets: #noun04040426  unit: #疋  
+物品名: 二色綾
+formula: * 10
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 80
+countries: #伊勢国 #参河国 #近江国 #美濃国 #但馬国 #美作国 #備前国 #備中国 #備後国 #安芸国 #紀伊国 #阿波国  targets: #noun04040403  unit: #疋  
+物品名: 一窠綾
+formula: * 7
+実際の使用回数: 6
+数量・単位欠落で未使用: 0
+潜在的使用回数: 6
+
+
+Rule ID: 81
+countries: #伊賀国 #尾張国 #遠江国 #若狭国 #越前国 #加賀国 #能登国 #越後国 #丹波国 #丹後国 #因幡国 #伯耆国 #出雲国 #播磨国 #長門国 #伊予国 #土佐国 #筑前国 #筑後国 #肥前国 #肥後国 #豊前国 #豊後国 #日向国  targets: #noun04040403  unit: #疋  
+物品名: 一窠綾
+formula: * 6
+実際の使用回数: 6
+数量・単位欠落で未使用: 0
+潜在的使用回数: 6
+
+
+Rule ID: 82
+countries: #讃岐国  targets: #noun04040403  unit: #疋  
+物品名: 一窠綾
+formula: * 5
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 83
+countries: #駿河国 #伊豆国 #甲斐国 #相摸国 #武蔵国 #上総国 #下総国 #常陸国 #信濃国 #上野国 #下野国  targets: #noun04040403  unit: #疋  
+物品名: 一窠綾
+formula: * 5
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 84
+countries: #伊勢国 #参河国 #近江国 #美濃国 #但馬国 #美作国 #備前国 #備中国 #備後国 #安芸国 #紀伊国 #阿波国  targets: #noun04040404  unit: #疋  
+物品名: 二窠綾
+formula: * 7
+実際の使用回数: 6
+数量・単位欠落で未使用: 0
+潜在的使用回数: 6
+
+
+Rule ID: 85
+countries: #伊賀国 #尾張国 #遠江国 #若狭国 #越前国 #加賀国 #能登国 #越後国 #丹波国 #丹後国 #因幡国 #伯耆国 #出雲国 #播磨国 #長門国 #伊予国 #土佐国 #筑前国 #筑後国 #肥前国 #肥後国 #豊前国 #豊後国 #日向国  targets: #noun04040404  unit: #疋  
+物品名: 二窠綾
+formula: * 6
+実際の使用回数: 8
+数量・単位欠落で未使用: 0
+潜在的使用回数: 8
+
+
+Rule ID: 86
+countries: #讃岐国  targets: #noun04040404  unit: #疋  
+物品名: 二窠綾
+formula: * 5
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 87
+countries: #駿河国 #伊豆国 #甲斐国 #相摸国 #武蔵国 #上総国 #下総国 #常陸国 #信濃国 #上野国 #下野国  targets: #noun04040404  unit: #疋  
+物品名: 二窠綾
+formula: * 5
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 88
+countries: #伊勢国 #参河国 #近江国 #美濃国 #但馬国 #美作国 #備前国 #備中国 #備後国 #安芸国 #紀伊国 #阿波国  targets: #noun04040405  unit: #疋  
+物品名: 三窠綾
+formula: * 7
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 89
+countries: #伊賀国 #尾張国 #遠江国 #若狭国 #越前国 #加賀国 #能登国 #越後国 #丹波国 #丹後国 #因幡国 #伯耆国 #出雲国 #播磨国 #長門国 #伊予国 #土佐国 #筑前国 #筑後国 #肥前国 #肥後国 #豊前国 #豊後国 #日向国  targets: #noun04040405  unit: #疋  
+物品名: 三窠綾
+formula: * 6
+実際の使用回数: 5
+数量・単位欠落で未使用: 0
+潜在的使用回数: 5
+
+
+Rule ID: 90
+countries: #讃岐国  targets: #noun04040405  unit: #疋  
+物品名: 三窠綾
+formula: * 5
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 91
+countries: #駿河国 #伊豆国 #甲斐国 #武蔵国 #上総国 #下総国 #常陸国 #信濃国 #上野国 #下野国  targets: #noun04040405  unit: #疋  
+物品名: 三窠綾
+formula: * 5
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 92
+countries: #相摸国  targets: #noun04040405  unit: #疋  
+物品名: 三窠綾
+formula: * 4
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 93
+countries: #伊勢国 #参河国 #近江国 #美濃国 #但馬国 #美作国 #備前国 #備中国 #備後国 #安芸国 #紀伊国 #阿波国  targets: #noun04040406  unit: #疋  
+物品名: 七窠綾
+formula: * 7
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 94
+countries: #伊賀国 #尾張国 #遠江国 #若狭国 #越前国 #加賀国 #能登国 #越後国 #丹波国 #丹後国 #因幡国 #伯耆国 #出雲国 #播磨国 #長門国 #伊予国 #土佐国 #筑前国 #筑後国 #肥前国 #肥後国 #豊前国 #豊後国 #日向国  targets: #noun04040406  unit: #疋  
+物品名: 七窠綾
+formula: * 6
+実際の使用回数: 5
+数量・単位欠落で未使用: 0
+潜在的使用回数: 5
+
+
+Rule ID: 95
+countries: #讃岐国  targets: #noun04040406  unit: #疋  
+物品名: 七窠綾
+formula: * 5
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 96
+countries: #駿河国 #伊豆国 #甲斐国 #武蔵国 #上総国 #下総国 #常陸国 #信濃国 #上野国 #下野国  targets: #noun04040406  unit: #疋  
+物品名: 七窠綾
+formula: * 5
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 97
+countries: #相摸国  targets: #noun04040406  unit: #疋  
+物品名: 七窠綾
+formula: * 4
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 98
+countries: #伊勢国 #参河国 #近江国 #美濃国 #但馬国 #美作国 #備前国 #備中国 #備後国 #安芸国 #紀伊国 #阿波国  targets: #noun04040407  unit: #疋  
+物品名: 小花綾
+formula: * 7
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 99
+countries: #伊賀国 #尾張国 #遠江国 #若狭国 #越前国 #加賀国 #能登国 #越後国 #丹波国 #丹後国 #因幡国 #伯耆国 #出雲国 #播磨国 #長門国 #伊予国 #土佐国 #筑前国 #筑後国 #肥前国 #肥後国 #豊前国 #豊後国 #日向国  targets: #noun04040407  unit: #疋  
+物品名: 小花綾
+formula: * 6
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 100
+countries: #讃岐国  targets: #noun04040407  unit: #疋  
+物品名: 小花綾
+formula: * 5
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 101
+countries: #駿河国 #伊豆国 #甲斐国 #相摸国 #武蔵国 #上総国 #下総国 #常陸国 #信濃国 #上野国 #下野国  targets: #noun04040407  unit: #疋  
+物品名: 小花綾
+formula: * 5
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 102
+countries: #伊勢国 #参河国 #近江国 #美濃国 #但馬国 #美作国 #備前国 #備中国 #備後国 #安芸国 #紀伊国 #阿波国  targets: #noun04040408  unit: #疋  
+物品名: 小鸚鵡綾
+formula: * 7
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 103
+countries: #伊賀国 #尾張国 #遠江国 #若狭国 #越前国 #加賀国 #能登国 #越後国 #丹波国 #丹後国 #因幡国 #伯耆国 #出雲国 #播磨国 #長門国 #伊予国 #土佐国 #筑前国 #筑後国 #肥前国 #肥後国 #豊前国 #豊後国 #日向国  targets: #noun04040408  unit: #疋  
+物品名: 小鸚鵡綾
+formula: * 6
+実際の使用回数: 5
+数量・単位欠落で未使用: 0
+潜在的使用回数: 5
+
+
+Rule ID: 104
+countries: #讃岐国  targets: #noun04040408  unit: #疋  
+物品名: 小鸚鵡綾
+formula: * 5
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 105
+countries: #駿河国 #伊豆国 #甲斐国 #相摸国 #武蔵国 #上総国 #下総国 #常陸国 #信濃国 #上野国 #下野国  targets: #noun04040408  unit: #疋  
+物品名: 小鸚鵡綾
+formula: * 5
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 106
+countries: #伊勢国 #参河国 #近江国 #美濃国 #但馬国 #美作国 #備前国 #備中国 #備後国 #安芸国 #紀伊国 #阿波国  targets: #noun04040409  unit: #疋  
+物品名: 薔薇綾
+formula: * 7
+実際の使用回数: 5
+数量・単位欠落で未使用: 0
+潜在的使用回数: 5
+
+
+Rule ID: 107
+countries: #伊賀国 #尾張国 #遠江国 #若狭国 #越前国 #加賀国 #能登国 #越後国 #丹波国 #丹後国 #因幡国 #伯耆国 #出雲国 #播磨国 #長門国 #伊予国 #土佐国 #筑前国 #筑後国 #肥前国 #肥後国 #豊前国 #豊後国 #日向国  targets: #noun04040409  unit: #疋  
+物品名: 薔薇綾
+formula: * 6
+実際の使用回数: 6
+数量・単位欠落で未使用: 0
+潜在的使用回数: 6
+
+
+Rule ID: 108
+countries: #讃岐国  targets: #noun04040409  unit: #疋  
+物品名: 薔薇綾
+formula: * 5
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 109
+countries: #駿河国 #伊豆国 #甲斐国 #相摸国 #武蔵国 #上総国 #下総国 #常陸国 #信濃国 #上野国 #下野国  targets: #noun04040409  unit: #疋  
+物品名: 薔薇綾
+formula: * 5
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 110
+countries: #伊勢国 #参河国 #近江国 #美濃国 #但馬国 #美作国 #備前国 #備中国 #備後国 #安芸国 #紀伊国 #阿波国  targets: #noun04040410  unit: #疋  
+物品名: 二花綾
+formula: * 7
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 111
+countries: #伊賀国 #尾張国 #遠江国 #若狭国 #越前国 #加賀国 #能登国 #越後国 #丹波国 #丹後国 #因幡国 #伯耆国 #出雲国 #播磨国 #長門国 #伊予国 #土佐国 #筑前国 #筑後国 #肥前国 #肥後国 #豊前国 #豊後国 #日向国  targets: #noun04040410  unit: #疋  
+物品名: 二花綾
+formula: * 6
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 112
+countries: #讃岐国  targets: #noun04040410  unit: #疋  
+物品名: 二花綾
+formula: * 5
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 113
+countries: #駿河国 #伊豆国 #甲斐国 #相摸国 #武蔵国 #上総国 #下総国 #常陸国 #信濃国 #上野国 #下野国  targets: #noun04040410  unit: #疋  
+物品名: 二花綾
+formula: * 5
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 114
+countries: #伊勢国 #参河国 #近江国 #美濃国 #但馬国 #美作国 #備前国 #備中国 #備後国 #安芸国 #紀伊国 #阿波国  targets: #noun04040411  unit: #疋  
+物品名: 莱花綾
+formula: * 7
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 115
+countries: #伊賀国 #尾張国 #遠江国 #若狭国 #越前国 #加賀国 #能登国 #越後国 #丹波国 #丹後国 #因幡国 #伯耆国 #出雲国 #播磨国 #長門国 #伊予国 #土佐国 #筑前国 #筑後国 #肥前国 #肥後国 #豊前国 #豊後国 #日向国  targets: #noun04040411  unit: #疋  
+物品名: 莱花綾
+formula: * 6
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 116
+countries: #讃岐国  targets: #noun04040411  unit: #疋  
+物品名: 莱花綾
+formula: * 5
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 117
+countries: #駿河国 #伊豆国 #甲斐国 #相摸国 #武蔵国 #上総国 #下総国 #常陸国 #信濃国 #上野国 #下野国  targets: #noun04040411  unit: #疋  
+物品名: 莱花綾
+formula: * 5
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 118
+countries:   targets: #noun04040412  unit: #疋  
+物品名: 続花綾
+formula: * 3
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 119
+countries:   targets: #noun04040413 #noun04040414 #noun04040415  unit: #疋  
+物品名: 瓜核綾, 瓜核綾白, 瓜核綾赤
+formula: * 3
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 120
+countries:   targets: #noun04040416  unit: #疋  
+物品名: 野草綾
+formula: * 3
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 121
+countries:   targets: #noun04040417  unit: #疋  
+物品名: 大結花綾
+formula: * 3.5
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 122
+countries:   targets: #noun04040418  unit: #疋  
+物品名: 連水綾
+formula: * 3.5
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 123
+countries:   targets: #noun04040419  unit: #疋  
+物品名: 小車牙綾
+formula: * 3.5
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 124
+countries:   targets: #noun04040420  unit: #疋  
+物品名: 散花単綾
+formula: * 3.5
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 125
+countries:   targets: #noun04040421  unit: #疋  
+物品名: 小蓮花綾
+formula: * 3.5
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 126
+countries:   targets: #noun04040422  unit: #疋  
+物品名: 小結綾
+formula: * 3.5
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 127
+countries:   targets: #noun04040423 #noun04040424 #noun04040425  unit: #疋  
+物品名: 呉服綾, 呉服綾白, 呉服綾赤
+formula: * 3.5
+実際の使用回数: 4
+数量・単位欠落で未使用: 0
+潜在的使用回数: 4
+
+
+Rule ID: 128
+countries:   targets: #noun04040501 #noun04040504 #noun04041001 #noun04041002 #noun04041003 #noun04041004 #noun04041005 #noun04041006 #noun04041007 #noun04041008 #noun04041009 #noun04040427  unit: #疋  
+物品名: 絹, 白絹, 帛, 緋帛, 縹帛, 橡帛, 皂帛, 紺帛, 黄帛, 緑帛, 纁帛, 白綾
+formula: * 4
+実際の使用回数: 112
+数量・単位欠落で未使用: 32
+潜在的使用回数: 144
+
+
+Rule ID: 129
+countries:   targets: #noun04040601 #noun04040603 #noun04040604  unit: #疋  
+物品名: 絁, 緋纈絁, 広絁
+formula: * 4
+実際の使用回数: 7
+数量・単位欠落で未使用: 6
+潜在的使用回数: 13
+
+
+Rule ID: 130
+countries:   targets: #noun04040502  unit: #疋  
+物品名: 広絹
+formula: * 4
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 131
+countries:   targets: #noun04040503  unit: #疋  
+物品名: 長絹
+formula: * 5
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 132
+countries:   targets: #noun04040602  unit: #疋  
+物品名: 長幡部絁
+formula: * 5
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 133
+countries:   targets: #noun04040702  unit: #疋  
+物品名: 綿紬
+formula: * 3
+実際の使用回数: 6
+数量・単位欠落で未使用: 0
+潜在的使用回数: 6
+
+
+Rule ID: 134
+countries:   targets: #noun04040802 #noun04040805 #noun04040806  unit: #端_調布  
+物品名: 貲布, 貲細布, 小堅貲布
+formula: * 4
+実際の使用回数: 7
+数量・単位欠落で未使用: 1
+潜在的使用回数: 8
+
+
+Rule ID: 135
+countries:   targets: #noun04040803  unit: #端_調布  
+物品名: 望陀貲布
+formula: * 4
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 136
+countries:   targets: #noun04040804  unit: #端_調布  
+物品名: 細貲布
+formula: * 3
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 137
+countries:   targets: #noun04040806  unit: #端_調布  
+物品名: 小堅貲布
+formula: * 3
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 138
+countries:   targets: #noun04040807  unit: #端_調布  
+物品名: 薄貲布
+formula: * 3
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 139
+countries:   targets: #noun04040808 #noun04040809 #noun04040810  unit: #端_調布  
+物品名: 望陀布, 紺望陀布, 縹望陀布
+formula: * 3
+実際の使用回数: 2
+数量・単位欠落で未使用: 1
+潜在的使用回数: 3
+
+
+Rule ID: 140
+countries:   targets: #noun04040102  unit: #端_調布  
+物品名: 広布
+formula: * 3
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 141
+countries:   targets: #noun04040103 #noun04040109 #noun04040110  unit: #端_調布  
+物品名: 細布, 緋細布, 縹細布
+formula: * 2
+実際の使用回数: 4
+数量・単位欠落で未使用: 2
+潜在的使用回数: 6
+
+
+Rule ID: 142
+countries:   targets: #noun04040902  unit: #端_調布  
+物品名: 倭文
+formula: * 3 div 2
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 143
+countries:   targets: #noun04040104 #noun04040106 #noun04040107 #noun04040108 #noun04040111 #noun04040113  unit: #端_調布  
+物品名: 調布, 紺布, 縹布, 黄布, 暴布, 榛布
+formula: * 3 div 2
+実際の使用回数: 18
+数量・単位欠落で未使用: 15
+潜在的使用回数: 33
+
+
+Rule ID: 144
+countries: #大隅国 #薩摩国  targets: #noun04040104  unit: #端_調布  
+物品名: 調布
+formula: * 4
+実際の使用回数: 0
+数量・単位欠落で未使用: 14
+潜在的使用回数: 14
+
+
+Rule ID: 145
+countries:   targets: #noun04040114  unit: #端_調布  
+物品名: 狭布
+formula: * 2
+実際の使用回数: 0
+数量・単位欠落で未使用: 1
+潜在的使用回数: 1
+
+
+Rule ID: 146
+countries:   targets: #noun04050000 #noun04050001 #noun04050002 #noun04050003 #noun04050004 #noun04050005 #noun04050006 #noun04050007 #noun04050008 #noun04050009 #noun04050010 #noun04050011 #noun04050012 #noun04050013 #noun04050014 #noun04050015 #noun04050016  unit: #絇  
+物品名: 糸, 上糸, 中糸, 麁糸, 上糸白糸, 上糸犬頭白糸, 橡糸, 練糸, 白糸, 赤引糸, 神服糸, 御調糸, 緋糸, 縹糸, 緑糸, 皂糸, 黄糸
+formula: * 1
+実際の使用回数: 56
+数量・単位欠落で未使用: 11
+潜在的使用回数: 67
+
+
+Rule ID: 147
+countries:   targets: #noun04040703 #noun04040705  unit: #帖  
+物品名: 畳綿, 白畳綿
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 148
+countries:   targets: #noun04040704 #noun04040706  unit: #屯  
+物品名: 細屯綿, 白細屯綿
+formula: * 1 div 2
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 149
+countries:   targets: #noun04040701  unit: #屯  
+物品名: 綿
+formula: * 1 div 2
+実際の使用回数: 0
+数量・単位欠落で未使用: 12
+潜在的使用回数: 12
+
+
+Rule ID: 150
+countries:   targets: #noun08020000  unit: #分_Weight  
+物品名: 銀
+formula: * 1
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 151
+countries:   targets: #noun08040000  unit: #廷  
+物品名: 鉄
+formula: * 1 div 2
+実際の使用回数: 0
+数量・単位欠落で未使用: 5
+潜在的使用回数: 5
+
+
+Rule ID: 152
+countries:   targets: #noun08040001  unit: #口  
+物品名: 鍬
+formula: * 1 div 3
+実際の使用回数: 0
+数量・単位欠落で未使用: 5
+潜在的使用回数: 5
+
+
+Rule ID: 153
+countries:   targets: #noun10010001  unit: #張  
+物品名: 大鹿皮
+formula: * 1
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 154
+countries:   targets: #noun10010002  unit: #張  
+物品名: 小鹿皮
+formula: * 1 div 2
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 155
+countries:   targets: #noun04030205 #noun04030201  unit: #枚  
+物品名: 長席, 席
+formula: * 1 div 2
+実際の使用回数: 2
+数量・単位欠落で未使用: 1
+潜在的使用回数: 3
+
+
+Rule ID: 156
+countries:   targets: #noun04030206  unit: #枚  
+物品名: 短席
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 157
+countries:   targets: #noun05010202  unit: #合_set  
+物品名: 柳筥
+formula: * 1
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 158
+countries:   targets: #noun07010102  unit: #口  
+物品名: 池由加
+formula: * 3
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 159
+countries:   targets: #noun07010201  unit: #口  
+物品名: 瓺
+formula: * 3
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 160
+countries:   targets: #noun07010301  unit: #口  
+物品名: 瓼
+formula: * 1 div 2
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 161
+countries:   targets: #noun07010103  unit: #口  
+物品名: 小由加
+formula: * 1 div 4
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 162
+countries:   targets: #noun07012802  unit: #口  
+物品名: 小甕
+formula: * 1 div 3
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 163
+countries:   targets: #noun07011502  unit: #合_set  
+物品名: 酒壺
+formula: * 1 div 6
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 164
+countries:   targets: #noun07010401  unit: #口  
+物品名: 缶
+formula: * 1 div 6
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 165
+countries:   targets: #noun07011101  unit: #口  
+物品名: 瓫
+formula: * 1 div 12
+実際の使用回数: 5
+数量・単位欠落で未使用: 0
+潜在的使用回数: 5
+
+
+Rule ID: 166
+countries:   targets: #noun07011104  unit: #口  
+物品名: 炉瓫
+formula: * 1 div 8
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 167
+countries:   targets: #noun07011105  unit: #口  
+物品名: 着乳瓫
+formula: * 1 div 8
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 168
+countries:   targets: #noun07011302  unit: #口  
+物品名: 洗盤
+formula: * 1 div 12
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 169
+countries:   targets: #noun07011403  unit: #口  
+物品名: 水瓶
+formula: * 1 div 12
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 170
+countries:   targets: #noun07011404  unit: #口  
+物品名: 大酒瓶
+formula: * 1 div 12
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 171
+countries:   targets: #noun07011402 #noun07011417  unit: #口  
+物品名: 平瓶, 比太為瓶
+formula: * 1 div 12
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 172
+countries:   targets: #noun07011405  unit: #口  
+物品名: 有蓋無柄大瓶
+formula: * 1 div 12
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 173
+countries:   targets: #noun07011406  unit: #口  
+物品名: 有柄大瓶
+formula: * 1 div 12
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 174
+countries:   targets: #noun07011504  unit: #口  
+物品名: 大壺
+formula: * 1 div 12
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 175
+countries:   targets: #noun07011305  unit: #口  
+物品名: 大高盤
+formula: * 1 div 12
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 176
+countries:   targets: #noun07011102 #noun07013003  unit: #口  
+物品名: 叩瓫, 叩戸
+formula: * 1 div 8
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 177
+countries:   targets: #noun07011306  unit: #口  
+物品名: 麻笥盤
+formula: * 1 div 8
+実際の使用回数: 6
+数量・単位欠落で未使用: 0
+潜在的使用回数: 6
+
+
+Rule ID: 178
+countries:   targets: #noun07011307  unit: #合_set  
+物品名: 大盤
+formula: * 1 div 12
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 179
+countries:   targets: #noun07011407  unit: #口  
+物品名: 負瓶
+formula: * 1 div 8
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 180
+countries:   targets: #noun07011408  unit: #口  
+物品名: 筥瓶
+formula: * 1 div 24
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 181
+countries:   targets: #noun07011901  unit: #口  
+物品名: 臼
+formula: * 1 div 24
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 182
+countries:   targets: #noun07011801  unit: #口  
+物品名: 鉢
+formula: * 1 div 30
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 183
+countries:   targets: #noun07011319  unit: #口  
+物品名: 須恵器酢瓶下盤
+formula: * 1 div 40
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 184
+countries:   targets: #noun07011409 #noun07011413  unit: #口  
+物品名: 有柄酢瓶, 酢瓶
+formula: * 1 div 40
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 185
+countries:   targets: #noun07011318 #noun07011309  unit: #口  
+物品名: 須恵器小盤, 小盤有蓋
+formula: * 1 div 40
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 186
+countries:   targets: #noun07010601  unit: #口  
+物品名: 筥杯
+formula: * 1 div 40
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 187
+countries:   targets: #noun07010527 #noun07010514 #noun07010520  unit: #口  
+物品名: 須恵器様短脚杯, 足下坏, 様足短坏
+formula: * 1 div 40
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 188
+countries:   targets: #noun07010709 #noun07010701 #noun07010707  unit: #口  
+物品名: 須恵器凡椀, 椀, 無蓋椀
+formula: * 1 div 40
+実際の使用回数: 4
+数量・単位欠落で未使用: 0
+潜在的使用回数: 4
+
+
+Rule ID: 189
+countries:   targets: #noun07011505  unit: #口  
+物品名: 小壺
+formula: * 1 div 24
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 190
+countries:   targets: #noun07011005  unit: #口  
+物品名: 小【瓦+嬰】
+formula: * 1 div 24
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 191
+countries:   targets: #noun07010706  unit: #口  
+物品名: 有蓋椀
+formula: * 1 div 20
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 192
+countries:   targets: #noun07011419  unit: #口  
+物品名: 須恵器小瓶
+formula: * 1 div 20
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 193
+countries:   targets: #noun07010710 #noun07010712  unit: #口  
+物品名: 須恵器御椀, 御埦
+formula: * 1 div 20
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 194
+countries:   targets: #noun07011410  unit: #口  
+物品名: 有柄中瓶
+formula: * 1 div 16
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 195
+countries:   targets: #noun07011506  unit: #口  
+物品名: 中壺
+formula: * 1 div 16
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 196
+countries:   targets: #noun07011318 #noun07011309  unit: #合_set  
+物品名: 須恵器小盤, 小盤有蓋
+formula: * 1 div 22
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 197
+countries:   targets: #noun07011411  unit: #口  
+物品名: 有柄小瓶
+formula: * 1 div 30
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 198
+countries:   targets: #noun07010704  unit: #口  
+物品名: 片椀
+formula: * 1 div 38
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 199
+countries:   targets: #noun07011507  unit: #口  
+物品名: 箸壺
+formula: * 1 div 84
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 200
+countries:   targets: #noun07011304  unit: #口  
+物品名: 片盤
+formula: * 1 div 84
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 201
+countries:   targets: #noun07010507  unit: #口  
+物品名: 深杯
+formula: * 1 div 64
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 202
+countries:   targets: #noun07010528  unit: #口  
+物品名: 須恵器御取杯
+formula: * 1 div 82
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 203
+countries:   targets: #noun07010602  unit: #口  
+物品名: 大筥杯
+formula: * 1 div 82
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 204
+countries:   targets: #noun07010603  unit: #口  
+物品名: 小筥杯
+formula: * 1 div 82
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 205
+countries:   targets: #noun07010508  unit: #口  
+物品名: 菜杯
+formula: * 1 div 82
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 206
+countries:   targets: #noun07010529 #noun07010511  unit: #口  
+物品名: 須恵器片杯, 凡片杯
+formula: * 1 div 82
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 207
+countries: #筑前国 #筑後国 #豊前国 #豊後国 #肥前国 #肥後国 #日向国 #大隅国 #薩摩国 #壱伎島 #対馬島  targets: #noun07010529 #noun07010511  unit: #口  
+物品名: 須恵器片杯, 凡片杯
+formula: * 1 div 200
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 208
+countries:   targets: #noun07010506  unit: #口  
+物品名: 韲杯
+formula: * 1 div 100
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 209
+countries:   targets: #noun07010506  unit: #合_set  
+物品名: 韲杯
+formula: * 1 div 54
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 210
+countries:   targets: #noun07012102  unit: #口  
+物品名: 燈盞
+formula: * 1 div 200
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 211
+countries:   targets: #noun07012902  unit: #口  
+物品名: 猴膝研
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 212
+countries:   targets: #noun07010530 #noun07010513  unit: #口  
+物品名: 須恵器清杯, 清坏
+formula: * 1 div 80
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 213
+countries:   targets: #noun07010516  unit: #口  
+物品名: 斐坏
+formula: * 1 div 120
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 214
+countries:   targets: #noun07013002  unit: #口  
+物品名: 乳戸
+formula: * 1 div 4
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 215
+countries:   targets: #noun07011308  unit: #口  
+物品名: 後盤
+formula: * 1 div 44
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 216
+countries:   targets: #noun07000001  unit: #斗  
+物品名: 赤土
+formula: * 2 div 3
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 217
+countries:   targets: #noun02041901  unit: #斗  
+物品名: 米
+formula: * 1 div 6
+実際の使用回数: 0
+数量・単位欠落で未使用: 1
+潜在的使用回数: 1
+
+
+Rule ID: 218
+countries: #壱伎島  targets: #noun02041605  unit: #斗  
+物品名: 小麦
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 219
+countries: #壱伎島  targets: #noun02040101  unit: #斗  
+物品名: 小豆
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 220
+countries: #壱伎島  targets: #noun02041401  unit: #斗  
+物品名: 大豆
+formula: * 1 div 4
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 221
+countries:   targets: #noun03010201 #noun03010205  unit: #斗  
+物品名: 塩, 生道塩
+formula: * 1 div 3
+実際の使用回数: 3
+数量・単位欠落で未使用: 13
+潜在的使用回数: 16
+
+
+Rule ID: 222
+countries:   targets: #noun03020209  unit: #升  
+物品名: 海石榴油
+formula: * 5 div 6
+実際の使用回数: 1
+数量・単位欠落で未使用: 1
+潜在的使用回数: 2
+
+
+Rule ID: 223
+countries: #壱伎島  targets: #noun03020209  unit: #升  
+物品名: 海石榴油
+formula: * 50 div 71
+実際の使用回数: 0
+数量・単位欠落で未使用: 1
+潜在的使用回数: 1
+
+
+Rule ID: 224
+countries:   targets: #noun01020139  unit: #斤  
+物品名: 御取鰒
+formula: * 1 div 4
+実際の使用回数: 4
+数量・単位欠落で未使用: 0
+潜在的使用回数: 4
+
+
+Rule ID: 225
+countries:   targets: #noun01020140  unit: #斤  
+物品名: 著耳鰒
+formula: * 1 div 4
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 226
+countries:   targets: #noun01020124  unit: #斤  
+物品名: 耽羅鰒
+formula: * 1 div 6
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 227
+countries:   targets: #noun01020127  unit: #斤  
+物品名: 鳥子鰒
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 228
+countries:   targets: #noun01020126  unit: #斤  
+物品名: 都都伎鰒
+formula: * 1 div 2
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 229
+countries:   targets: #noun01020141  unit: #両  
+物品名: 放耳鰒
+formula: * 1 div 53
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 230
+countries:   targets: #noun01020128  unit: #斤  
+物品名: 長鰒
+formula: * 1 div 6
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 231
+countries:   targets: #noun01020138  unit: #斤  
+物品名: 短鰒
+formula: * 1 div 6
+実際の使用回数: 3
+数量・単位欠落で未使用: 1
+潜在的使用回数: 4
+
+
+Rule ID: 232
+countries:   targets: #noun01020109 #noun01020101 #noun01020144  unit: #斤  
+物品名: 凡鰒, 鰒, 鞭鰒
+formula: * 1 div 6
+実際の使用回数: 2
+数量・単位欠落で未使用: 2
+潜在的使用回数: 4
+
+
+Rule ID: 233
+countries:   targets: #noun01020113  unit: #斤  
+物品名: 串鰒
+formula: * 1 div 6
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 234
+countries:   targets: #noun01020145  unit: #斤  
+物品名: 横串鰒
+formula: * 1 div 6
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 235
+countries:   targets: #noun01020136  unit: #斤  
+物品名: 細割鰒
+formula: * 1 div 6
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 236
+countries:   targets: #noun01020115  unit: #斤  
+物品名: 葛貫鰒
+formula: * 1 div 6
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 237
+countries:   targets: #noun01020137  unit: #斤  
+物品名: 火焼鰒
+formula: * 1 div 6
+実際の使用回数: 0
+数量・単位欠落で未使用: 1
+潜在的使用回数: 1
+
+
+Rule ID: 238
+countries:   targets: #noun01020134  unit: #斤  
+物品名: 羽割鰒
+formula: * 1 div 6
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 239
+countries:   targets: #noun01020111  unit: #斤  
+物品名: 蔭鰒
+formula: * 1 div 6
+実際の使用回数: 2
+数量・単位欠落で未使用: 0
+潜在的使用回数: 2
+
+
+Rule ID: 240
+countries:   targets: #noun01020108  unit: #斤  
+物品名: 薄鰒
+formula: * 1 div 6
+実際の使用回数: 0
+数量・単位欠落で未使用: 5
+潜在的使用回数: 5
+
+
+Rule ID: 241
+countries: #壱伎島  targets: #noun01020108  unit: #斤  
+物品名: 薄鰒
+formula: * 1 div 3
+実際の使用回数: 0
+数量・単位欠落で未使用: 5
+潜在的使用回数: 5
+
+
+Rule ID: 242
+countries:   targets: #noun01021304  unit: #両  
+物品名: 干鮹
+formula: * 1 div 157
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 243
+countries:   targets: #noun01021105  unit: #両  
+物品名: 乾螺
+formula: * 1 div 170
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 244
+countries:   targets: #noun01010401  unit: #斤  
+物品名: 堅魚
+formula: * 1 div 9
+実際の使用回数: 3
+数量・単位欠落で未使用: 3
+潜在的使用回数: 6
+
+
+Rule ID: 245
+countries: #筑前国 #筑後国 #豊前国 #豊後国 #肥前国 #肥後国 #日向国 #大隅国 #薩摩国 #壱伎島 #対馬島  targets: #noun01010401  unit: #両  
+物品名: 堅魚
+formula: * 1 div 186
+実際の使用回数: 1
+数量・単位欠落で未使用: 3
+潜在的使用回数: 4
+
+
+Rule ID: 246
+countries:   targets: #noun01020301  unit: #斤  
+物品名: 烏賊
+formula: * 1 div 10
+実際の使用回数: 1
+数量・単位欠落で未使用: 1
+潜在的使用回数: 2
+
+
+Rule ID: 247
+countries:   targets: #noun01010503  unit: #両  
+物品名: 久恵䐹
+formula: * 1 div 533
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 248
+countries:   targets: #noun01011003  unit: #両  
+物品名: 鮫䐹
+formula: * 1 div 533
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 249
+countries:   targets: #noun01010403  unit: #両  
+物品名: 煮堅魚
+formula: * 1 div 103
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 250
+countries:   targets: #noun01021402  unit: #両  
+物品名: 熬海鼠
+formula: * 1 div 138
+実際の使用回数: 3
+数量・単位欠落で未使用: 0
+潜在的使用回数: 3
+
+
+Rule ID: 251
+countries:   targets: #noun01020802  unit: #斗  
+物品名: 棘甲蠃
+formula: * 1 div 6
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 252
+countries:   targets: #noun01020801  unit: #斗  
+物品名: 甲蠃
+formula: * 1 div 6
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 253
+countries:   targets: #noun01010801  unit: #隻  
+物品名: 鮭
+formula: * 1 div 20
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 254
+countries:   targets: #noun01010103  unit: #斤  
+物品名: 雑魚腊
+formula: * 1 div 26
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 255
+countries:   targets: #noun01021303  unit: #斤  
+物品名: 鮹腊
+formula: * 1 div 4
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 256
+countries:   targets: #noun01012405  unit: #斤  
+物品名: 醤鮒
+formula: * 1 div 32
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 257
+countries:   targets: #noun01012403  unit: #斤  
+物品名: 鮒鮨
+formula: * 1 div 32
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 258
+countries:   targets: #noun01020116  unit: #斤  
+物品名: 腐耳鰒
+formula: * 1 div 14
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 259
+countries:   targets: #noun01020121  unit: #斤  
+物品名: 甘鮨鰒
+formula: * 1 div 28
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 260
+countries:   targets: #noun01020120  unit: #斤  
+物品名: 鰒鮨
+formula: * 1 div 46
+実際の使用回数: 0
+数量・単位欠落で未使用: 2
+潜在的使用回数: 2
+
+
+Rule ID: 261
+countries:   targets: #noun03040305  unit: #斤  
+物品名: 貽貝富耶交鮨
+formula: * 1 div 46
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 262
+countries:   targets: #noun01020402  unit: #斗  
+物品名: 貽貝鮨
+formula: * 1 div 3
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 263
+countries:   targets: #noun01010108  unit: #斤  
+物品名: 雑魚鮨
+formula: * 1 div 80
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 264
+countries:   targets: #noun01021403  unit: #両  
+物品名: 海鼠腸
+formula: * 1 div 250
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 265
+countries:   targets: #noun01010110  unit: #両  
+物品名: 雑魚楚割
+formula: * 1 div 266
+実際の使用回数: 1
+数量・単位欠落で未使用: 1
+潜在的使用回数: 2
+
+
+Rule ID: 266
+countries:   targets: #noun01010121 #noun01011206  unit: #両  
+物品名: 魚捄割, 鯛楚割
+formula: * 1 div 266
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 267
+countries:   targets: #noun01011203  unit: #両  
+物品名: 鯛腊
+formula: * 1 div 266
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 268
+countries:   targets: #noun01020603  unit: #両  
+物品名: 蠣腊
+formula: * 1 div 266
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 269
+countries:   targets: #noun01010112 #noun01011210  unit: #斤  
+物品名: 雑魚䐹, 鯛䐹
+formula: * 1 div 33
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 270
+countries:   targets: #noun01010111  unit: #斤  
+物品名: 漬塩雑魚
+formula: * 1 div 36
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 271
+countries:   targets: #noun01010308  unit: #斤  
+物品名: 乾鰯
+formula: * 1 div 36
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 272
+countries:   targets: #noun01032501  unit: #斤  
+物品名: 海藻
+formula: * 1 div 43
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+Rule ID: 273
+countries: #隠伎国  targets: #noun01032501  unit: #両  
+物品名: 海藻
+formula: * 1 div 53
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 274
+countries:   targets: #noun01032401  unit: #斤  
+物品名: 海松
+formula: * 1 div 43
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 275
+countries: #隠伎国  targets: #noun01032401  unit: #両  
+物品名: 海松
+formula: * 1 div 53
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 276
+countries:   targets: #noun01032001  unit: #斤  
+物品名: 紫菜
+formula: * 1 div 16
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 277
+countries:   targets: #noun01032301  unit: #斤  
+物品名: 海藻根
+formula: * 1 div 16
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 278
+countries:   targets: #noun01031202  unit: #斤  
+物品名: 大凝菜
+formula: * 1 div 40
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 279
+countries:   targets: #noun01030401  unit: #斤  
+物品名: 小凝菜
+formula: * 1 div 40
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 280
+countries:   targets: #noun01031601  unit: #斤  
+物品名: 角俣菜
+formula: * 1 div 40
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 281
+countries:   targets: #noun01030202  unit: #両  
+物品名: 滑海藻
+formula: * 1 div 1386
+実際の使用回数: 0
+数量・単位欠落で未使用: 1
+潜在的使用回数: 1
+
+
+Rule ID: 282
+countries:   targets: #noun01030501  unit: #両  
+物品名: 於期菜
+formula: * 1 div 426
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 283
+countries:   targets: #noun01032201  unit: #両  
+物品名: 鹿角菜
+formula: * 1 div 533
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 284
+countries:   targets: #noun02024701  unit: #斤  
+物品名: 沢蒜
+formula: * 1 div 72
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 285
+countries:   targets: #noun02020301  unit: #斤  
+物品名: 島蒜
+formula: * 1 div 72
+実際の使用回数: 0
+数量・単位欠落で未使用: 0
+潜在的使用回数: 0
+
+
+Rule ID: 286
+countries: #摂津国  targets: #noun05010306  unit: #合_set  
+物品名: 大笥
+formula: * 1 div 7
+実際の使用回数: 1
+数量・単位欠落で未使用: 0
+潜在的使用回数: 1
+
+
+========================================
+未使用 calculationRule
+========================================
+潜在的にも使用の可能性が0だったrule数: 68
