@@ -1,5 +1,5 @@
 # engishiki-quantity-conversion
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakamura196/engishiki-quantity-conversion/blob/colab/run_on_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reki-kodai/engishiki-quantity-conversion/blob/main/run_on_colab.ipynb)
 
 上のボタンから Google Colaboratory で開くと、ブラウザ上で実行して結果を確認できます（Google アカウントが必要です）。
 
